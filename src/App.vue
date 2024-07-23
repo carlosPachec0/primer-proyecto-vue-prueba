@@ -1,4 +1,5 @@
 <script setup>
+//proyecto prueba
 import { ref, computed, onBeforeUpdate  } from 'vue';
 const name = 'vue dinámico';
 const styleColor = "color: blue";
